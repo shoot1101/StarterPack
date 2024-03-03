@@ -1,6 +1,6 @@
 # 🎁 StarterPack
 
-![GitHub followers](https://img.shields.io/github/followers/shoot1101?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/shoot1101/Spawncar?style=for-the-badge) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]((https://discord.gg/X36mxQTk5b)) ![Twitch Status](https://img.shields.io/twitch/status/BobMarly1?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/shoot1101?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/shoot1101/StarterPack?style=for-the-badge) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]((https://discord.gg/X36mxQTk5b)) ![Twitch Status](https://img.shields.io/twitch/status/BobMarly1?style=for-the-badge)
 
 ## **ℹ️ Informations**
 
