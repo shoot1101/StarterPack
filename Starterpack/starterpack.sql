@@ -3,4 +3,4 @@ INSERT INTO items (name, label) VALUES
   ('pack2', 'Pack Illégal')
 ;
 
-ALTER TABLE `users` ADD `getStarter` INT NOT NULL DEFAULT '0'
+ALTER TABLE `users` ADD COLUMN `getStarter` int(11) NOT NULL DEFAULT '0';
